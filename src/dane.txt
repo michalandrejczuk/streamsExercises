@@ -1,0 +1,21 @@
+username;comment;date;likes
+Anna;Bardzo podoba mi się ten kurs, doskonała jakość materiałów i świetnie wytłumaczone trudne koncepcje programowania. Kurs jest bardzo zrozumiały, nawet dla zupełnie początkujących.;2023-10-30;23
+Jan;Kurs jest naprawdę fantastyczny, zrozumiałe przykłady i praktyczne ćwiczenia sprawiają, że nauka Javy to czysta przyjemność.;2023-11-30;17
+Ewa;Kurs jest rewelacyjny!;2023-09-19;15
+Kamil;Kurs jest świetny, pomógł mi zrozumieć wiele trudnych koncepcji z programowania, które wcześniej były dla mnie zagadką.;2023-12-01;12
+Marta;Cieszę się, że wybrałem ten kurs, na pewno jeszcze skorzystam z innych materiałów tego autora.;2023-12-02;10
+Adam;Kurs jest wyjątkowo przydatny i przystępny, dzięki niemu nauczyłem się programować w Javie.;2023-11-11;8
+Marek;Bardzo polecam ten kurs, materiały są przejrzyste i zrozumiałe.;2023-08-01;14
+Kasia;Dzięki kursowi nauczyłam się programować w Javie, teraz czuję się pewniejsza.;2023-08-27;9
+Robert;Kurs jest naprawdę wartościowy, warto wydać na niego pieniądze.;2023-09-26;11
+Paula;Polecam każdemu ten kurs, to doskonały sposób na naukę programowania.;2023-09-13;7
+Piotrek;Kurs jest doskonały, na pewno jeszcze wrócę do tych materiałów w przyszłości.;2023-10-15;19
+Adam;Naprawdę świetne materiały, pomogły mi w zdobyciu wiedzy na temat Javy.;2023-12-25;13
+Rafał;Ten kurs to prawdziwa perełka, na pewno zwiększy Twoje umiejętności programistyczne.;2023-11-07;22
+Iza;Długo nie mogłem znaleźć odpowiedniego kursu, ale ten jest idealny.;2023-07-07;20
+Mariusz;Polecam wszystkim ten kurs, na pewno go docenicie.;2023-10-23;16
+Natalia;Świetnie przedstawiona teoria i bardzo dużo praktyki, polecam!;2023-11-07;10
+Adam;Dzięki temu kursowi zrozumiałem Javę, jestem teraz pewniejszy w programowaniu.;2023-10-22;12
+Asia;To naprawdę wartościowy kurs, który sprawi, że zrozumiesz Javę.;2023-11-07;14
+Jan;Kurs jest naprawdę świetny, warto zainwestować w swoją edukację.;2023-11-07;8
+Hania;Dzięki temu kursowi stałem się lepszym, programistą, polecam go każdemu.;2023-10-21;15
